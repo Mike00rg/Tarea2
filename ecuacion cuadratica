@@ -1,0 +1,76 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+
+float forcua( float a, float b, float c){
+
+float multiplicacionarriba, totalarriba;
+	float aux=0, res, elevado, dividendo, total;
+	int i;
+	
+	printf("introduzca los numeros que desea que contenga su ecuacion\n");
+	printf("escriba A\n");
+	scanf("%f",&a);
+	printf("escriba B\n");
+	scanf("%f",&b);
+	printf("escriba C\n");
+	scanf("%f",&c);
+	
+	printf("[%.2f]x^2+[%.2f]x+[%.2f]\n",a,b,c);
+	
+	elevado=b;
+	for (i=1;i<2;i++){
+		elevado=elevado*b;
+		
+	}
+	
+	printf("el resultado de B elevado es %f\n",elevado);
+	
+	multiplicacionarriba=-4*(a)*(c);
+	
+	printf("el valor de la multiplicacion arriba es de :%f\n",multiplicacionarriba);
+	
+			totalarriba= elevado+multiplicacionarriba;
+	
+	printf("el total arriba es igual a: %f\n",totalarriba);
+	
+	if (totalarriba<0){
+		printf("es un numero imaginario");
+		
+		return 0;
+	}
+	else{
+	
+do
+ {
+  aux= aux+0.01;
+  res= aux*aux;
+ }while (totalarriba>=res);
+ 
+ 	 printf("la raiz cuadrada de %f es %f\n",totalarriba,aux);
+  
+  dividendo=a*2;
+
+	total =((-b+aux)/dividendo);
+	
+	printf("El resultado de la ecuacion es: %f", total);
+ 
+}
+ 
+}
+
+int main() {
+	
+	
+	float a,b,c, total=0;
+	
+	printf("programa que resuelve cualquier ecuacion cuadratica, introduzca los valores segun el orden de una ecuacion cuadritica: ax^2+bx+c \n");
+
+	total = forcua(a,b,c);	
+	
+	getch();
+}
