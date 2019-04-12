@@ -1,0 +1,452 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <time.h>
+#include <windows.h>
+
+
+#define TRUE 0
+#define FALSE 1
+#define pizarra 6
+
+void Tablero();
+void crear_tablero();
+void minas();
+void mostrar_tablero();
+void mostrar_tablerocompleto();
+void inicio();
+int jugar();
+void jugar_nuevo();
+int mirar_gano();
+void buscar_minas(int, int);
+int minas_cercanas(int, int);
+
+char tablero[pizarra][pizarra];
+char tablero_juego[pizarra][pizarra];
+int perdida = 0;
+
+
+int main()
+{
+
+    system("cls");
+
+    inicio();
+
+    return 0;
+
+}
+
+void bienvenido()
+{
+    printf("Bienvenido al Buscaminas!");
+
+    printf("\n");
+    printf("\n\n");
+}
+void inicio()
+{
+    perdida = 0;   
+    Tablero();
+    crear_tablero();
+
+    
+    do
+    {
+    jugar();
+    mostrar_tablero();
+    } while(perdida != 1);   
+
+    mostrar_tablerocompleto();
+
+
+    jugar_nuevo();
+}
+
+
+void Tablero()
+{
+
+    int i, j;
+
+
+    
+
+    for(i = 0; i < pizarra; i++)
+        for(j = 0; j < pizarra; j++)
+            tablero[i][j] = 'o';
+
+    
+    minas();
+}
+
+
+void crear_tablero()
+{
+
+    int i, j;
+    int fila, col, cur = 4;
+    printf("A JUGAR!\n\n");
+
+    for(i = 0; i < pizarra; i++)
+        for(j = 0; j < pizarra; j++)
+            tablero_juego[i][j] = 'x';
+
+
+
+    for(col = 0; col < pizarra; col++)
+        printf("%d ", col + 1);
+
+    printf("\n\n");
+
+    for(fila = 0; fila < pizarra; fila++)
+    {
+        for(col = 0; col < pizarra; col++)
+        {
+            printf("%c ", tablero_juego[fila][col]);
+        }
+        printf(" %d ", fila + 1);
+        printf("\n");
+    }
+}
+
+
+void minas()
+{
+    int i, random;
+
+   
+
+    srand(time(0));
+
+    for (i = 0; i < pizarra; i++)
+    {
+        random = rand() % (pizarra);
+        tablero[random][i] = '*';
+    }
+
+}
+
+
+void mostrar_tablero()
+{
+    int fila, col;
+
+    system("cls");
+    for(col = 0; col < pizarra; col++)
+        printf("%d ", col + 1);
+
+    printf("\n\n");
+        for(fila = 0; fila < pizarra; fila++)
+    {
+        for(col = 0; col < pizarra; col++)
+        {
+            printf("%c ", tablero_juego[fila][col]);
+        }
+        printf(" %d ", fila + 1);
+        printf("\n");
+    }
+}
+
+
+void mostrar_tablerocompleto()
+{
+    int fila, col;
+
+    system("cls");
+    for(col = 0; col < pizarra; col++)
+        printf("%d ", col + 1);
+
+    printf("\n\n");
+        for(fila = 0; fila < pizarra; fila++)
+    {
+        for(col = 0; col < pizarra; col++)
+        {
+            printf("%c ", tablero[fila][col]);
+        }
+        printf(" %d ", fila + 1);
+        printf("\n");
+    }
+}
+
+
+int jugar()
+{
+    int r_seleccion = 0, c_seleccion = 0,
+        minacerca = 0, minacerca2 = 0,
+        minacerca3 = 0, minacerca4 = 0,
+        minacerca5 = 0, minacerca6 = 0,
+        minacerca7 = 0, minacerca8 = 0,
+        i = 0;
+
+
+    
+    do {
+    printf("\nHaga su Seleccion: \n");
+    printf("Fila: ");
+    scanf("%d", &r_seleccion);
+    printf("Columna: ");
+    scanf("%d", &c_seleccion);
+
+    } while(r_seleccion < 1 || r_seleccion > pizarra || c_seleccion < 1 || r_seleccion > pizarra);
+    
+
+    buscar_minas(r_seleccion - 1, c_seleccion - 1);
+
+    if(perdida == 1)
+        return -1;
+
+    
+    minacerca = minas_cercanas(r_seleccion - 1, c_seleccion - 1);
+    tablero_juego[r_seleccion - 1][c_seleccion - 1] = (char)( ((int)'0') + minacerca );
+
+
+    if(minacerca == 0)
+    {
+        if(c_seleccion != pizarra)
+        {
+            i = 0;
+            while(minacerca == 0 && (c_seleccion - 1 + i) < pizarra)
+            {
+
+                minacerca = minas_cercanas(r_seleccion - 1, (c_seleccion - 1 + i));
+                if(minacerca != -1)
+                {
+                tablero_juego[r_seleccion - 1][(c_seleccion - 1) + i] = (char) ( ((int)'0') + minacerca );
+                i++;
+                }
+            }
+                if(r_seleccion != 1)
+                {
+                    i = 0;
+                    while(minacerca5 == 0 && (c_seleccion - 1 + i) < pizarra && (r_seleccion - 1 - i) > 0)
+                    {
+
+                        minacerca5 = minas_cercanas((r_seleccion - 1 - i), (c_seleccion - 1 + i));
+                        if(minacerca5 != -1)
+                        {
+                        tablero_juego[(r_seleccion - 1) - i][(c_seleccion - 1) + i] = (char) ( ((int)'0') + minacerca5);
+                        i++;
+                        }
+                    }
+                }
+                if(r_seleccion != pizarra)
+                {
+                    i = 0;
+                    while(minacerca6 == 0 && (r_seleccion - 1 + i) < pizarra && (c_seleccion - 1 + i) < pizarra )
+                    {
+
+                        minacerca6 = minas_cercanas((r_seleccion - 1 + i), (c_seleccion - 1 + i));
+                        if(minacerca != -1)
+                        {
+                        tablero_juego[(r_seleccion - 1) + i][(c_seleccion - 1) + i] = (char) ( ((int)'0') + minacerca6);
+                        i++;
+                        }
+                    }
+                }
+        }
+
+        if(r_seleccion != pizarra)
+        {
+            i = 0;
+            while(minacerca2 == 0 && (r_seleccion - 1 + i) < pizarra)
+            {
+
+                minacerca2 = minas_cercanas((r_seleccion - 1 + i), c_seleccion - 1);
+                if(minacerca2 != -1)
+                {
+                tablero_juego[(r_seleccion - 1) + i][c_seleccion - 1] = (char) ( ((int)'0') + minacerca2 );
+                i++;
+                }
+            }
+
+            if(c_seleccion != pizarra)
+            {
+                i = 0;
+                while(minacerca7 == 0 && (r_seleccion - 1 + i) < pizarra && (c_seleccion - 1 - i) > 0)
+                {
+
+                    minacerca7 = minas_cercanas((r_seleccion - 1 + i), (c_seleccion - 1 - i));
+                    if(minacerca != -1)
+                    {
+                    tablero_juego[(r_seleccion - 1) + i][(c_seleccion - 1) - i] = (char) ( ((int)'0') + minacerca7);
+                    i++;
+                    }
+                }
+            }
+        }
+
+        if(r_seleccion != 1)
+        {
+            i = 0;
+            while(minacerca3 == 0 && (r_seleccion - i) > 0)
+            {
+
+                minacerca3 = minas_cercanas((r_seleccion - 1 - i), c_seleccion - 1);
+                if(minacerca3 != -1)
+                {
+                tablero_juego[(r_seleccion - 1) - i][c_seleccion - 1] = (char) ( ((int)'0') + minacerca3 );
+                i++;
+                }
+            }
+            if(c_seleccion != pizarra)
+            {
+                while(minacerca8 == 0 && (c_seleccion - 1 - i) > 0 && (r_seleccion - 1 - i) > 0)
+                {
+
+                    minacerca8 = minas_cercanas((r_seleccion - 1 - i), (c_seleccion - 1 - i));
+                    if(minacerca8 != -1)
+                    {
+                    tablero_juego[(r_seleccion - 1) - i][(c_seleccion - 1) - i] = (char) ( ((int)'0') + minacerca8);
+                    i++;
+                    }
+                }
+            }
+        }
+
+        if(c_seleccion != 1)
+        {
+            i = 0;
+            while(minacerca4 == 0 && (c_seleccion - i) > 0)
+            {
+
+                minacerca4 = minas_cercanas(r_seleccion - 1, (c_seleccion - 1 - i));
+                if(minacerca4 != -1)
+                {
+                tablero_juego[r_seleccion - 1][(c_seleccion - 1) - i] = (char) ( ((int)'0') + minacerca4 );
+                i++;
+                }
+            }
+        }
+    }
+
+
+
+
+
+    if(mirar_gano() == TRUE)
+    {
+        system("cls");
+        mostrar_tablerocompleto();
+        printf("\n\nGanaste!! Bien hecho!!\n\n");
+        jugar_nuevo();
+    }
+
+    return 0;
+}
+
+
+
+void buscar_minas(int r_select, int c_select)
+{
+    if(tablero[r_select][c_select] == '*')
+    {
+        printf("\nEncontraste una mina! Perdiste!\n");
+        getchar(); getchar();
+        perdida = 1;
+    }
+}
+
+
+
+int minas_cercanas(int r_select, int c_select)
+{
+    int cont_mina_cercana = 0;
+
+    if(tablero[r_select][c_select] == '*')
+    {
+        return -1;
+    }
+    if(r_select < (pizarra - 1) && c_select < (pizarra - 1))
+    {
+        if(tablero[r_select + 1][c_select] == '*')
+            cont_mina_cercana++;
+        if(tablero[r_select][c_select + 1] == '*')
+            cont_mina_cercana++;
+        if(tablero[r_select + 1][c_select + 1] == '*')
+            cont_mina_cercana++;
+
+        if(c_select != 0)
+        {
+            if(tablero[r_select + 1][c_select - 1] == '*')
+                cont_mina_cercana++;
+            if(tablero[r_select][c_select - 1] == '*')
+                cont_mina_cercana++;
+        }
+        if(r_select != 0)
+        {
+            if(tablero[r_select - 1][c_select] == '*')
+                cont_mina_cercana++;
+            if(tablero[r_select - 1][c_select + 1] == '*')
+                cont_mina_cercana++;
+            if(c_select != 0)
+            {
+                if(tablero[r_select - 1][c_select - 1] == '*')
+                    cont_mina_cercana++;
+            }
+        }
+    }
+    if(r_select == (pizarra - 1) && c_select != (pizarra - 1))
+    {
+            if(tablero[r_select - 1][c_select] == '*')
+                cont_mina_cercana++;
+            if(tablero[r_select - 1][c_select + 1] == '*')
+                cont_mina_cercana++;
+    }
+    if(c_select == (pizarra - 1) && r_select != (pizarra - 1))
+    {
+            if(tablero[r_select][c_select - 1] == '*')
+                cont_mina_cercana++;
+            if(tablero[r_select + 1][c_select - 1] == '*')
+                cont_mina_cercana++;
+    }
+    if(r_select == (pizarra - 1) && c_select == (pizarra - 1))
+    {
+            if(tablero[r_select][c_select - 1] == '*')
+                cont_mina_cercana++;
+            if(tablero[r_select - 1][c_select - 1] == '*')
+                cont_mina_cercana++;
+        
+            if(tablero[r_select - 1][c_select] == '*')
+                cont_mina_cercana++;
+    }
+    return cont_mina_cercana;
+}
+
+
+int mirar_gano()
+{
+    int fila, col;
+
+    for(fila = 0; fila < pizarra; fila++)
+        for(col = 0; col < pizarra; col++)
+        {
+            if(tablero_juego[fila][col] == 'o' && tablero[fila][col] != '*')
+                return FALSE;
+        }
+
+    return TRUE;
+}
+
+
+void jugar_nuevo()
+{
+    char resp;
+
+    printf("\n\nQuieres jugar de nuevo? (s/n) --> ");
+    scanf(" %c", &resp);
+
+    if(toupper(resp) == 'S')
+    {
+        system("cls");
+        inicio();
+    }
+
+    else
+    {
+        printf("\n\nGracias por jugar! Adios.\n\n\n\n\n");
+        (void) getchar();
+        exit(EXIT_SUCCESS);
+
+    }
+}
