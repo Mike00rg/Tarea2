@@ -1,0 +1,201 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#define A 4
+#define B 3
+#define C 2
+#define D 1
+#define F 0
+
+struct MATERIA
+{
+    char nombre[50];
+    int calif;
+    int puntos;
+
+} materias[100];
+
+void Inscibir();
+void Calcular_acumulado();
+void Eliminar_materia();
+void Editar_cali();
+void Mostrar_puntos_mat();
+
+int j=0;
+
+int main()
+{
+    int opc;
+
+    do
+    {
+        printf("\n1) Inscibir una materia");
+        printf("\n2) Calcular indice acumulado");
+        printf("\n3) Eliminar una materia");
+        printf("\n4) Editar calificacion de una materia");
+        printf("\n5) Mostrar los puntos por materia");
+        printf("\n6) Salir");
+        printf("\nOpcion: ");
+        scanf("%d",&opc);
+
+
+        switch(opc)
+        {
+        case 1:
+            Inscibir();
+            break;
+        case 2:
+            Calcular_acumulado();
+            break;
+        case 3:
+            Eliminar_materia();
+            break;
+        case 4:
+            Editar_cali();
+            break;
+        case 5:
+            Mostrar_puntos_mat();
+            break;
+        }
+    }
+    while(opc!=6);
+
+    return 0;
+}
+
+void Inscibir()
+{
+    char opcion = 's';
+
+    do
+    {
+        fflush(stdin);
+        printf("Escriba el nombre de la materia: \n");
+        scanf("%s",&materias[j].nombre);
+
+        printf("Escriba la calificacion del estudiante en esta materia: \n");
+        scanf("%d",&materias[j].calif);
+
+        if(materias[j].calif>=90)
+        {
+            materias[j].puntos = A;
+        }
+        else if(materias[j].calif>=80 && materias[j].calif<90)
+        {
+            materias[j].puntos = B;
+        }
+        else if(materias[j].calif>=70 && materias[j].calif<80)
+        {
+            materias[j].puntos = C;
+        }
+        else if(materias[j].calif>=60 && materias[j].calif<70)
+        {
+            materias[j].puntos = D;
+        }
+        else if(materias[j].calif<60)
+        {
+            materias[j].puntos = F;
+        }
+        j++;
+        printf("Desea agregar otra materia (S/N)? \n");
+        scanf("%s",&opcion);
+    }
+    while(opcion == 's' || opcion == 'S');
+
+}
+
+void Calcular_acumulado()
+{
+    int promedio=0,x=0,suma=0;
+    int i;
+
+    for(i=0; i<j; i++)
+    {
+        suma = materias[i].puntos + x;
+        x = suma;
+    }
+    promedio = x/j; 
+
+    printf("Su indice acumulado es:\n %d",promedio);
+}
+
+void Eliminar_materia()
+{
+    int i;
+    char rpt = 's';
+
+    do
+    {
+        printf("Cual materia quiere eliminar? \n");
+
+        for(i=0; i<j; i++)
+        {
+            printf("%d.%s\n",i,materias[i].nombre);
+        }
+        scanf("%i",&i);
+
+        strcpy(materias[i].nombre," ");
+        materias[i].calif = 0;
+        materias[i].puntos = 0;
+
+        printf("Desea eliminar otra materia (S/N)?\n");
+        scanf("%s",&rpt);
+    }
+    while(rpt == 's' || rpt == 'S');
+}
+
+void Editar_cali()
+{
+    int i;
+    char opcion = 's';
+
+    do
+    {
+        printf("Cual materia desea Editar? \n");
+
+        for(i=0; i<j; i++)
+        {
+            printf("%i.%s\n",i,materias[i].nombre);
+        }
+        scanf("%i",&i);
+
+        printf("\nDigite la nueva calificacion: \n");
+        scanf("%i",&materias[i].calif);
+
+        if(materias[i].calif>=90)
+        {
+            materias[i].puntos = A;
+        }
+        else if(materias[i].calif>=80 && materias[j].calif<90)
+        {
+            materias[i].puntos = B;
+        }
+        else if(materias[i].calif>=70 && materias[j].calif<80)
+        {
+            materias[i].puntos = C;
+        }
+        else if(materias[i].calif>=60 && materias[j].calif<70)
+        {
+            materias[i].puntos = D;
+        }
+        else if(materias[i].calif<60)
+        {
+            materias[i].puntos = F;
+        }
+        printf("Desea Editar la calificacion de otra materia (S/N)?");
+        scanf("%s",&opcion);
+
+    }
+    while(opcion == 's' || opcion == 'S');
+
+}
+
+void Mostrar_puntos_mat()
+{
+    int i;
+
+    for(i=0; i<j; i++)
+    {
+        printf("\n%s\n%d",materias[i].nombre,materias[i].puntos);
+    }
+}
