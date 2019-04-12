@@ -1,0 +1,110 @@
+/*copiar el codigo de la pagina que es el que esta debajo en un archivo de texto en la misma ubicacion en la que se encuentra el proyecto*/
+/*<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001000391.html\" title=\"MARTILLO CARP. ST. 20 OZ. 51-082\">MARTILLO CARP. ST. 20 OZ. 51-082</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-77238\">\n<span class=\"price\">RD$ 661.04</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001001907.html\" title=\"PIQUETA P/SOLDADOR TW VERTICAL\">PIQUETA P/SOLDADOR TW VERTICAL</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-6576\">\n<span class=\"price\">RD$ 244.40</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001001908.html\" title=\"PIQUETA P/SOLDADOR TW HORIZONTAL\">PIQUETA P/SOLDADOR TW HORIZONTAL</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-6577\">\n<span class=\"price\">RD$ 244.40</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001001910.html\" title=\"MARTILLO CARP. ST. 16 0Z 51-081\">MARTILLO CARP. ST. 16 0Z 51-081</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-1388\">\n<span class=\"price\">RD$ 555.98</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001001911.html\" title=\"MARTILLO CARP. ST. 20 OZ. 51-274\">MARTILLO CARP. ST. 20 OZ. 51-274</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-30236\">\n<span class=\"price\">RD$ 343.16</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001001915.html\" title=\"MARTILLO FIBER GLASS ST.20 OZ HT51392-40\">MARTILLO FIBER GLASS ST.20 OZ HT51392-40</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-30312\">\n<span class=\"price\">RD$ 661.04</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001001919.html\" title=\"MARTILLO CARP 27MM 40370/027 40200/027\">MARTILLO CARP 27MM 40370/027 40200/027</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-67580\">\n<span class=\"price\">RD$ 249.75</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001008162.html\" title=\"MARTILLO BOLA 400 G. 40400/016\">MARTILLO BOLA 400 G. 40400/016</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-73190\">\n<span class=\"price\">RD$ 315.00</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001014973.html\" title=\"PIQUETA P/ALBANIL 40455/000\">PIQUETA P/ALBANIL 40455/000</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-2433\">\n<span class=\"price\">RD$ 249.99</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001016254.html\" title=\"TALADRO DW SDS PLUS 1'' D25213K/D25260-B\">TALADRO DW SDS PLUS 1'' D25213K/D25260-B</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-23286\">\n<span class=\"price\">RD$ 19,260.00</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001078457.html\" title=\"TALADRO DW SDS MAX 1'' D25722K-B3\">TALADRO DW SDS MAX 1'' D25722K-B3</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-30781\">\n<span class=\"price\">RD$ 63,500.00</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001081748.html\" title=\"MARTILLO P/TAPICERO SURTEK 852124\">MARTILLO P/TAPICERO SURTEK 852124</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-79388\">\n<span class=\"price\">RD$ 380.53</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001085734.html\" title=\"MARTILLO CARP. 16 OZ TACTIX 221051\">MARTILLO CARP. 16 OZ TACTIX 221051</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-82695\">\n<span class=\"price\">RD$ 949.71</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001085735.html\" title=\"MARTILLO CARP. 20 OZ TACTIX 221053\">MARTILLO CARP. 20 OZ TACTIX 221053</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-82696\">\n<span class=\"price\">RD$ 978.44</span> </span>\n</div>\n<div class=\"product-details\">\n<h2 class=\"product-name\"><a href=\"http://americana.com.do/000001085736.html\" title=\"MARTILLO CARP. 16 OZ TACTIX 221073\">MARTILLO CARP. 16 OZ TACTIX 221073</a></h2>\n<div class=\"price-box\">\n<span class=\"regular-price\" id=\"product-price-82697\">\n<span class=\"price\">RD$ 473.16</span> </span>\n</div>
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void Scrape(char contenido[]);
+int EncontrarTag(char contenido[], char tag[], int pos);
+int EncontrarProducto(char contenido[], char producto[], int pos);
+int SubStr(char contenido[], char strSubString[], int pos);
+int ExtraerInfo(char contenido[], int pos);
+char * LeerDatos(char nombreArchivo[]);
+
+int main()
+{
+	char * contenido = LeerDatos("contenido.txt");
+
+	Scrape(contenido);
+	free(contenido);
+	return 0;
+}
+
+char * LeerDatos(char nombreArchivo[])
+{
+	int tamanoArchivo;
+	FILE * archivo;
+	char * contenido;
+
+	archivo = fopen(nombreArchivo, "rt");
+
+	if (archivo == NULL)
+		return NULL;
+	
+	fseek(archivo, 0, SEEK_END);
+	tamanoArchivo = ftell(archivo);
+	fseek(archivo, 0, SEEK_SET);
+	
+	contenido = malloc((tamanoArchivo + 1) * sizeof(char));
+	
+	fread(contenido, sizeof(char), tamanoArchivo, archivo);
+	fclose(archivo);
+	contenido[tamanoArchivo] = '\0';
+	
+	return contenido;
+}
+
+void Scrape(char contenido[])
+{
+	int i = 0, count = 0;
+	char tagProducto[] = "class=\"product-name\">";
+	char tagPrecio[] = "class=\"price\"";
+	char producto[] = "MARTILLO";
+
+	while ((i = EncontrarTag(contenido, tagProducto, i)))
+	{
+		if (EncontrarProducto(contenido, producto, i))
+		{
+			printf("\n%d) ", ++count);
+			ExtraerInfo(contenido, i);
+			i = EncontrarTag(contenido, tagPrecio, i);
+			ExtraerInfo(contenido, i);
+		}
+	}
+}
+
+int EncontrarTag(char contenido[], char tag[], int pos)
+{
+	while (contenido[pos] != '\0')
+	{
+		if (SubStr(contenido, tag, pos))
+		{
+			pos += strlen(tag);
+			while (contenido[pos++] != '>');
+			return (pos);
+		}
+		pos++;
+	}
+	return 0;
+}
+
+int EncontrarProducto(char contenido[], char producto[], int pos) {
+
+	while (contenido[pos] != '\0' && contenido[pos] != '\n')
+		if (SubStr(contenido, producto, pos++))
+			return 1;
+
+	return 0;
+}
+
+int ExtraerInfo(char contenido[], int pos)
+{
+	while (contenido[pos] != '\0' && contenido[pos] != '<')
+		printf("%c", contenido[pos++]);
+
+	printf("\n");
+	return pos;
+}
+
+int SubStr(char contenido[], char strSubString[], int pos)
+{
+	int i;
+
+	for (i = 0; contenido[i + pos] != '\0' && contenido[i + pos] != '\n'; i++)
+		if (strSubString[i] != contenido[i + pos])
+			break;
+
+	return (strSubString[i] == '\0');
+}
