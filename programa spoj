@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+main()
+{
+   int i;
+   int klaudia;
+   int total;
+   
+   for(i=0;i<10;i++){
+   	
+   	printf("\ndiga cuantas manzanas:");
+   	scanf("%d",&total);
+   	printf("cuantas manzanas de mas tiene klaudia:");
+   	scanf("%d",&klaudia);
+   	
+   	total=total-klaudia;
+   	total=total/2;
+   	
+   	klaudia=klaudia+total;
+   	printf("klaudia tiene %d y Julka tiene %d", klaudia, total);
+   }
+   
+}
