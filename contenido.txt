@@ -1,0 +1,1812 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Search results for: 'martillo'</title>
+<meta name="description" content="Ferretería Americana, Tradición con más de 70 años en República Dominicana. Productos Industriales y Detallista, Compra por Internet y envíos a Domicilio en 24 horas, Gratis." />
+<meta name="keywords" content="Ferreteria Americana, E-commerce, Americana Departamentos, Online Shop, Shop Online, Retail, Hardware, Ofertas, Comprar en Linea, Cotizacion, Compra Ahora, Lista de Articulos, Descuentos, Ferreteria, wholesale retail bags, retail business insurance, retail credit, retail price, catalogo ferreteria, herramientas de ferreteria, ferreteria online, comprar tienda online, maquinaria pesada en venta, maquinaria agricultura, herramientas carpinteria, herramientas de cocina, herramientas craftsman, herramientas para taller, electrodomesticos ofertas, tiendas electrodomesticos, ofertas electrodomesticos, outlet electrodomesticos" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+<script src="/cdn-cgi/apps/head/ALrFqksrautfueXQiqsnM3WOh0g.js"></script><link rel="icon" href="http://americana.com.do/media/favicon/default/1455888_646341545418636_1565546427_n.jpg" type="image/x-icon" />
+<link rel="shortcut icon" href="http://americana.com.do/media/favicon/default/1455888_646341545418636_1565546427_n.jpg" type="image/x-icon" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css' />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = '';
+    var BLANK_IMG = '';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/bootstrap.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/bootstrap-responsive.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/font-awesome-ie7.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/cookiecompliance.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/cookie_additional_style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/cookieconsent.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/plumrocket/pslogin/pslogin.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/plumrocket/pslogin/pslogin-custom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/tm/soldtogether.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/base/default/css/tm/suggestpage.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/w3themes/fancybox/jquery.fancybox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/w3themes/ajaxcartsuper/ajax_cart_super.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/w3themes/css/lastesttweet.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/layerednavigationajax/jquery-ui.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/print.css" media="print" />
+<script type="text/javascript" src="http://americana.com.do/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/varien/js.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/varien/form.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/jquery/jquery-1.2.3.min.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/jq.slide.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/flexslider.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/jquery-ui.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/menu.effect.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/mobilemenu.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/backtotop.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/cookieconsent.min.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/plumrocket/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://americana.com.do/js/w3themes/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="http://americana.com.do/skin/frontend/base/default/js/plumrocket/pslogin/pslogin.js"></script>
+<script type="text/javascript" src="http://americana.com.do/skin/frontend/base/default/js/tm/soldtogether.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/styles-ie8.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://americana.com.do/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://americana.com.do/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.americana.com.do';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["DO"];
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-47344702-1']);
+
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+
+<div class="class=" cc-window"></div>
+
+<script>
+				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+				  ga('create', 'UA-47344702-1', 'auto');ga('send', 'pageview');
+				</script>
+
+<script>
+jQuery(document).load(function(e) {
+ if(browsercookie.cookieconsent_status="")
+   	 p.open();
+});
+
+</script><script type="text/javascript">
+//<![CDATA[  
+    function ajaxFilter(url) {
+        var data = "layer_action=1";
+        jQuery(function($jq) {
+            $jq.ajax({
+                url: url,
+                dataType: 'json',
+                type: 'post',
+                data: data,
+                beforeSend: function ( xhr ) {
+                    var loading = '<img src ="http://americana.com.do/media/theme/default/loader_1.gif"/>';
+                    var urlImage = 'http://americana.com.do/media/theme/default/bg4_1.png';
+                    var opacity = "0.7";
+                    $jq('#loading').html(loading);
+                    $jq('#wrapper').attr('style','position: fixed;top: 0%; z-index:99999; left: 0%; opacity:'+opacity+'; width:100%;height: 100%; background:url('+urlImage+')');
+                },
+                success: function(data) {
+                    var flag = true;
+                    if(data.status==1) {
+                        //alert(dat)
+                        if (data.productlist) {
+                             var cate_product =   $$('.category-products').length;
+                             if(cate_product>0){
+                                $$('.category-products').each(function (el){
+                                    el.replace(data.productlist);
+                                });
+                             } 
+                            if(data.pcount==0) {
+                                $jq('p.note-msg').attr('class','note-msg category-products');
+                                flag = false;
+                            }
+                            //$jq('#loading').html('');
+                        }
+                        if(flag==true) {
+                            if (data.leftLayer) {
+                                if(url.search('tag/product/list')!=-1){
+                                    if ($jq('.block-tags')) {
+                                        $$('.block-tags').each(function (el){
+                                            el.replace(data.leftLayer);
+                                        });
+                                        $jq('.block-tags').append('<div class= "add_js_tagproduct"></div>');
+                                        //$jq('.add_js_tagproduct').append(data.tagtoolbarjs);
+                                        //var page_title = $jq(data.productlist).children(':first').html();
+                                        $jq('.col-main .page-title').hide();
+                                        $jq('.col-main .page-title:last').show();
+                                        $jq('.col-main .page-title:first').show();
+                                    }
+                                } else {
+                                    if ($jq('.block-layered-nav')) {
+                                        $$('.block-layered-nav').each(function (el){
+                                            el.replace(data.leftLayer);
+                                        });
+                                        $jq('.block-layered-nav').append('<div class= "add_js_remove_item"></div>');
+                                        $jq('.add_js_remove_item').append(data.removeItem);
+                                        if(  $jq('.col-main .page-title').length >1){
+                                         $jq('.col-main .page-title:last').hide();
+                                        }
+
+                                    }
+                                }
+                            }
+                        }
+
+                        $jq('#loading').html('');
+                        
+                        $jq('#wrapper').removeAttr('style');
+                    }else {
+                        alert('Load data was failed');
+                    }
+
+                }
+            })
+            return false;
+        });
+        
+    }
+    function Toolbar() {
+        var toolbar_status = "1";
+        if(toolbar_status==1){    
+            //view mode product   
+            $jq('.view-mode a').each(function(){
+                var viewModeUrl = $jq(this).attr('href');
+                $jq( this ).attr('link',viewModeUrl);
+                $jq(this).bind('click',function(){
+                $jq(this).attr('onclick',ajaxFilter(viewModeUrl));
+                return false;
+                });
+            });
+            //sort by
+            $jq('.sort-by select').removeAttr('onchange');
+            $jq('.sort-by select').change(function(){
+                var sortByUrl = $jq(this).children(":selected").attr('value');
+                ajaxFilter(sortByUrl)
+            });
+             //demention sort by
+
+            $jq('.sort-by a').each(function(){
+                var dementionUrl = $jq(this).attr('href');
+                $jq( this ).attr('link',dementionUrl);
+                //$jq(this).attr('href','javascript:void(0)');
+                $jq(this).bind('click',function(){
+                    $jq(this).attr('onclick',ajaxFilter(dementionUrl));
+                    return false;
+                });
+            });
+
+            //show per page
+
+            $jq('.limiter select').removeAttr('onchange');
+            $jq('.limiter select').change(function(){
+                var perPageUrl = $jq(this).children(":selected").attr('value');
+                ajaxFilter(perPageUrl)
+            });  
+
+            //pagination page
+            $jq('.pages a').each(function(){
+                var href = $jq(this).attr('href');
+                $jq( this ).attr('link',href);
+                //$jq(this).attr('href','javascript:void(0)');
+                $jq(this).bind('click',function(){
+                    $jq(this).attr('onclick',ajaxFilter(href));
+                    return false;
+                });
+            });
+            
+            $jq('.tags-list a').each(function(){
+                var TagUrl = $jq(this).attr('href');
+                $jq( this ).attr('link',TagUrl);
+                //$jq(this).attr('href','javascript:void(0)');
+                $jq(this).bind('click',function(){
+                    $jq(this).attr('onclick',ajaxFilter(TagUrl));
+                    return false;
+                });
+            });
+        }
+
+    }
+    $jq(document).ready(function(){
+        Toolbar();
+        $jq(document).ajaxComplete(function(){
+            Toolbar();
+        })
+    });
+    
+//]]>
+</script>
+<div id="wrapper">
+<div id="loading" style="position: fixed;top: 50%;left: 50%;margin-top: -50px;"></div>
+</div>
+<style type="text/css">
+    .ajaxLayer{
+        cursor: pointer;
+    }
+</style><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+
+<link rel="stylesheet" type="text/css" href="http://americana.com.do/skin/frontend/magma/default/css/wide_menu.css" media="screen" />
+<style type="text/css">
+
+    /*google font*/
+        
+    
+
+
+     
+    
+    
+    
+
+    
+
+    
+
+        
+       
+
+</style></head>
+<body class=" catalogsearch-result-index">
+<div class="wrapper">
+<noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+<div class="page">
+<div class="header-wrapper">
+<div class="header-container">
+<div class="container">
+<div class="contain-size">
+<div class="header">
+<div class="toplink ">
+<div class="row-fluid">
+<div class="span6">
+<div class="phone-number visible-desktop"><p><em class="icon-phone"></em> Llamar +<span>(809) 549-7777</span></p></div>
+<div class="header-content hidden-desktop"><p><em class="icon-phone"></em> Llamar +<span>(809) 549-7777</span></p></div>
+<div class="currency-language">
+</div>
+</div>
+<div class="span6">
+
+<ul class="links">
+<li class="first"><a href="https://americana.com.do/customer/account/" title="My Account">Mi Cuenta</a></li>
+<li><a href="https://americana.com.do/wishlist/" title="Mis Deseos">Mis Deseos</a></li> <li><a href="http://americana.com.do/checkout/cart/" title="Mi Carrito" class="top-link-cart">Mi Carrito</a></li>
+<li><a href="http://americana.com.do/checkout/cart/" title="Comprar" class="top-link-cart">Comprar</a></li>
+<li class=" last"><a href="https://americana.com.do/customer/account/login/" title="Log In">Iniciar Sesion</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="header-content hidden-desktop">
+<div class="row-fluid">
+<h1 class="logo"><strong>Ferreteria Americana</strong><a href="http://americana.com.do/" title="Ferreteria Americana" class="logo"><img src="http://americana.com.do/skin/frontend/magma/default/images/logo.png" alt="Ferreteria Americana" /></a></h1>
+<br>
+<div class="span4">
+<form id="search_mini_form" action="http://americana.com.do/catalogsearch/result/" method="get">
+
+<div class="form-search">
+<div class="search-content">
+<label for="search">Buscar:</label>
+<input id="search" type="text" name="q" onfocus="if(this.value == 'Buscar...') { this.value = ''; }" onblur="this.value=!this.value?'Search Here...':this.value;" value="Buscar..." class="input-text" maxlength="128" />
+<button type="submit" title="Buscar" class="button"><i class="icon-search"></i></button>
+<div id="search_autocomplete" class="search-autocomplete"></div>
+<script type="text/javascript">
+			jQuery.noConflict();
+            //<![CDATA[
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Buscar...');
+                searchForm.initAutocomplete('', 'search_autocomplete');
+            //]]>
+            </script>
+</div>
+</div>
+</form> </div>
+</div>
+</div>
+<div class="header-content visible-desktop">
+<div class="row-fluid">
+<div class="span4">
+<a href="http://americana.com.do/" title="Ferreteria Americana" class="logo"><strong>Ferreteria Americana</strong><img src="http://americana.com.do/skin/frontend/magma/default/images/logo.png" alt="Ferreteria Americana" /></a>
+</div>
+<div class="span4">
+<form id="search_mini_form" action="http://americana.com.do/catalogsearch/result/" method="get">
+
+<div class="form-search">
+<div class="search-content">
+<label for="search">Buscar:</label>
+<input id="search" type="text" name="q" onfocus="if(this.value == 'Buscar...') { this.value = ''; }" onblur="this.value=!this.value?'Search Here...':this.value;" value="Buscar..." class="input-text" maxlength="128" />
+<button type="submit" title="Buscar" class="button"><i class="icon-search"></i></button>
+<div id="search_autocomplete" class="search-autocomplete"></div>
+<script type="text/javascript">
+			jQuery.noConflict();
+            //<![CDATA[
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Buscar...');
+                searchForm.initAutocomplete('', 'search_autocomplete');
+            //]]>
+            </script>
+</div>
+</div>
+</form> </div>
+<div class="span4">
+<div class="quick-access">
+<div class="login-big"><a class="icon-login-big" href="http://americana.com.do/customer/account/login/" title="Login"><span>Login</span></a></div>
+<div class="top-cart-wrapper">
+<div class="top-cart-contain">
+<div class="icon-cart-big"><a class="cart-url" href="http://americana.com.do/checkout/cart/"><span></span></a></div>
+<span class="top-cart-title">
+Carrito </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-mobile-container hidden-desktop">
+<div class="container">
+<div class="contain-size">
+<div class="navbar">
+<div id="navbar-inner" class="navbar-inner navbar-inactive">
+<a class="btn btn-navbar">
+<i class="icon-reorder"></i>
+</a>
+<span class="brand">Menu</span>
+<ul id="mobilemenu" class="mobilemenu nav-collapse collapse">
+<li class="level0 nav-1 level-top first parent">
+<a href="http://americana.com.do/departamentos.html" class="level-top">
+<span>Departamentos</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://americana.com.do/departamentos/maquinarias.html">
+<span>Maquinarias </span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="http://americana.com.do/departamentos/ba-os.html">
+<span>Baños </span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="http://americana.com.do/departamentos/cerrajeria.html">
+<span>Cerrajería </span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="http://americana.com.do/departamentos/electricos.html">
+<span>Eléctricos </span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="http://americana.com.do/departamentos/pinturas.html">
+<span>Pinturas </span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="http://americana.com.do/departamentos/electrodomesticos.html">
+<span>Electrodomésticos</span>
+</a>
+</li><li class="level1 nav-1-7">
+<a href="http://americana.com.do/departamentos/jardineria.html">
+<span>Jardinería</span>
+</a>
+</li><li class="level1 nav-1-8">
+<a href="http://americana.com.do/departamentos/disenoyterminaciones.html">
+<span>Diseño y Terminaciones</span>
+</a>
+</li><li class="level1 nav-1-9">
+<a href="http://americana.com.do/departamentos/pets.html">
+<span>Pets </span>
+</a>
+</li><li class="level1 nav-1-10">
+<a href="http://americana.com.do/departamentos/limpieza.html">
+<span>Limpieza </span>
+</a>
+</li><li class="level1 nav-1-11">
+<a href="http://americana.com.do/departamentos/herramientas.html">
+<span>Herramientas </span>
+</a>
+</li><li class="level1 nav-1-12">
+<a href="http://americana.com.do/departamentos/hogar.html">
+<span>Hogar </span>
+</a>
+</li><li class="level1 nav-1-13">
+<a href="http://americana.com.do/departamentos/plomeria.html">
+<span>Plomería</span>
+</a>
+</li><li class="level1 nav-1-14">
+<a href="http://americana.com.do/departamentos/auto-adornos.html">
+<span>Auto Adornos </span>
+</a>
+</li><li class="level1 nav-1-15">
+<a href="http://americana.com.do/departamentos/deportes-y-caza.html">
+<span>Deportes y Caza</span>
+</a>
+</li><li class="level1 nav-1-16">
+<a href="http://americana.com.do/departamentos/piscinas.html">
+<span>Piscinas </span>
+</a>
+</li><li class="level1 nav-1-17">
+<a href="http://americana.com.do/departamentos/lamparas-decorativas.html">
+<span>Lamparas Decorativas </span>
+</a>
+</li><li class="level1 nav-1-18 last">
+<a href="http://americana.com.do/departamentos/navidad.html">
+<span>Navidad </span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a href="http://americana.com.do/tiendas.html" class="level-top">
+<span>Tiendas</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://americana.com.do/tiendas/johnfkennedy.html">
+<span>John F. Kennedy</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="http://americana.com.do/tiendas/sanmartin.html">
+<span>San Martin</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="http://americana.com.do/tiendas/independencia.html">
+<span>Independencia</span>
+</a>
+</li><li class="level1 nav-2-4">
+<a href="http://americana.com.do/tiendas/luperon.html">
+<span>Luperon</span>
+</a>
+</li><li class="level1 nav-2-5">
+<a href="http://americana.com.do/tiendas/santiago.html">
+<span>Santiago</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="http://americana.com.do/tiendas/bavaro.html">
+<span>B&aacute;varo</span>
+</a>
+</li><li class="level1 nav-2-7">
+<a href="http://americana.com.do/tiendas/lamarina.html">
+<span>La Marina</span>
+</a>
+</li><li class="level1 nav-2-8 last">
+<a href="http://americana.com.do/tiendas/mellaoriental.html">
+<span>Mella Oriental</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://americana.com.do/servicios.html" class="level-top">
+<span>Servicios</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="http://americana.com.do/servicios/financiacion.html">
+<span>Financiación</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="http://americana.com.do/servicios/serviciosdisenoyterminaciones.html">
+<span>Diseño y Terminaciones</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="http://americana.com.do/servicios/enviosygarantias.html">
+<span>Envíos y Garantías</span>
+</a>
+</li><li class="level1 nav-3-4 last">
+<a href="http://americana.com.do/servicios/mantenimientodepiscinas.html">
+<span>Mantenimiento de Piscinas</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top">
+<a href="http://americana.com.do/historia.html" class="level-top">
+<span>Historia</span>
+</a>
+</li><li class="level0 nav-5 level-top parent">
+<a href="http://americana.com.do/ofertas.html" class="level-top">
+<span>Ofertas</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first">
+<a href="http://americana.com.do/ofertas/encartedelmes.html">
+<span>Encartes</span>
+</a>
+</li><li class="level1 nav-5-2 last">
+<a href="http://americana.com.do/ofertas/oferta-depto.html">
+<span>Ofertas por Departamentos</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-6 level-top">
+<a href="http://americana.com.do/plan-preferencia.html" class="level-top">
+<span>Plan Preferencia</span>
+</a>
+</li><li class="level0 nav-7 level-top parent">
+<a href="http://americana.com.do/preguntasfrecuentes.html" class="level-top">
+<span>Preguntas Frecuentes</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-7-1 first">
+<a href="http://americana.com.do/preguntasfrecuentes/usodepaginaonline.html">
+<span>Uso de P&aacute;gina Online</span>
+</a>
+</li><li class="level1 nav-7-2">
+<a href="http://americana.com.do/preguntasfrecuentes/precios.html">
+<span>Listado de Precios</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="http://americana.com.do/preguntasfrecuentes/itbis.html">
+<span>ITBIS en Articulos</span>
+</a>
+</li><li class="level1 nav-7-4">
+<a href="http://americana.com.do/preguntasfrecuentes/terminosycondiciones.html">
+<span>Términos y Condiciones</span>
+</a>
+</li><li class="level1 nav-7-5">
+<a href="http://americana.com.do/preguntasfrecuentes/devolucionesyreembolsos.html">
+<span>Devoluciones y Reembolsos</span>
+</a>
+</li><li class="level1 nav-7-6">
+<a href="http://americana.com.do/preguntasfrecuentes/politicasdegarantia.html">
+<span>Políticas de Garantia</span>
+</a>
+</li><li class="level1 nav-7-7">
+<a href="http://americana.com.do/preguntasfrecuentes/creditofiscal.html">
+<span>Solicitar Credito Fiscal</span>
+</a>
+</li><li class="level1 nav-7-8">
+<a href="http://americana.com.do/preguntasfrecuentes/solicitud-empleo.html">
+<span>Solicitud de Empleo</span>
+</a>
+</li><li class="level1 nav-7-9">
+<a href="http://americana.com.do/preguntasfrecuentes/tokenisacion.html">
+<span>Tokenisacion</span>
+</a>
+</li><li class="level1 nav-7-10 last">
+<a href="http://americana.com.do/preguntasfrecuentes/solicitud-credito.html">
+<span>Solicitud de Crédito</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-8 level-top last">
+<a href="http://americana.com.do/cobertura-de-envio.html" class="level-top">
+<span>Cobertura de Envio</span>
+</a>
+</li> </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-container visible-desktop">
+<div class="container">
+<div class="contain-size">
+<div class="nav-inner">
+<ul id="nav" class="wine_menu">
+<li class="home active"><a href="http://americana.com.do/" title="Home"><span><i class="icon-home"></i></span></a></li>
+<li class="level0 nav-1 level-top first parent">
+<a href="http://americana.com.do/departamentos.html" class="level-top">
+<span>Departamentos</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://americana.com.do/departamentos/maquinarias.html">
+<span>Maquinarias </span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="http://americana.com.do/departamentos/ba-os.html">
+<span>Baños </span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="http://americana.com.do/departamentos/cerrajeria.html">
+<span>Cerrajería </span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="http://americana.com.do/departamentos/electricos.html">
+<span>Eléctricos </span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="http://americana.com.do/departamentos/pinturas.html">
+<span>Pinturas </span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="http://americana.com.do/departamentos/electrodomesticos.html">
+<span>Electrodomésticos</span>
+</a>
+</li><li class="level1 nav-1-7">
+<a href="http://americana.com.do/departamentos/jardineria.html">
+<span>Jardinería</span>
+</a>
+</li><li class="level1 nav-1-8">
+<a href="http://americana.com.do/departamentos/disenoyterminaciones.html">
+<span>Diseño y Terminaciones</span>
+</a>
+</li><li class="level1 nav-1-9">
+<a href="http://americana.com.do/departamentos/pets.html">
+<span>Pets </span>
+</a>
+</li><li class="level1 nav-1-10">
+<a href="http://americana.com.do/departamentos/limpieza.html">
+<span>Limpieza </span>
+</a>
+</li><li class="level1 nav-1-11">
+<a href="http://americana.com.do/departamentos/herramientas.html">
+<span>Herramientas </span>
+</a>
+</li><li class="level1 nav-1-12">
+<a href="http://americana.com.do/departamentos/hogar.html">
+<span>Hogar </span>
+</a>
+</li><li class="level1 nav-1-13">
+<a href="http://americana.com.do/departamentos/plomeria.html">
+<span>Plomería</span>
+</a>
+</li><li class="level1 nav-1-14">
+<a href="http://americana.com.do/departamentos/auto-adornos.html">
+<span>Auto Adornos </span>
+</a>
+</li><li class="level1 nav-1-15">
+<a href="http://americana.com.do/departamentos/deportes-y-caza.html">
+<span>Deportes y Caza</span>
+</a>
+</li><li class="level1 nav-1-16">
+<a href="http://americana.com.do/departamentos/piscinas.html">
+<span>Piscinas </span>
+</a>
+</li><li class="level1 nav-1-17">
+<a href="http://americana.com.do/departamentos/lamparas-decorativas.html">
+<span>Lamparas Decorativas </span>
+</a>
+</li><li class="level1 nav-1-18 last">
+<a href="http://americana.com.do/departamentos/navidad.html">
+<span>Navidad </span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a href="http://americana.com.do/tiendas.html" class="level-top">
+<span>Tiendas</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://americana.com.do/tiendas/johnfkennedy.html">
+<span>John F. Kennedy</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="http://americana.com.do/tiendas/sanmartin.html">
+<span>San Martin</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="http://americana.com.do/tiendas/independencia.html">
+<span>Independencia</span>
+</a>
+</li><li class="level1 nav-2-4">
+<a href="http://americana.com.do/tiendas/luperon.html">
+<span>Luperon</span>
+</a>
+</li><li class="level1 nav-2-5">
+<a href="http://americana.com.do/tiendas/santiago.html">
+<span>Santiago</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="http://americana.com.do/tiendas/bavaro.html">
+<span>B&aacute;varo</span>
+</a>
+</li><li class="level1 nav-2-7">
+<a href="http://americana.com.do/tiendas/lamarina.html">
+<span>La Marina</span>
+</a>
+</li><li class="level1 nav-2-8 last">
+<a href="http://americana.com.do/tiendas/mellaoriental.html">
+<span>Mella Oriental</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://americana.com.do/servicios.html" class="level-top">
+<span>Servicios</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="http://americana.com.do/servicios/financiacion.html">
+<span>Financiación</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="http://americana.com.do/servicios/serviciosdisenoyterminaciones.html">
+<span>Diseño y Terminaciones</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="http://americana.com.do/servicios/enviosygarantias.html">
+<span>Envíos y Garantías</span>
+</a>
+</li><li class="level1 nav-3-4 last">
+<a href="http://americana.com.do/servicios/mantenimientodepiscinas.html">
+<span>Mantenimiento de Piscinas</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top">
+<a href="http://americana.com.do/historia.html" class="level-top">
+<span>Historia</span>
+</a>
+</li><li class="level0 nav-5 level-top parent">
+<a href="http://americana.com.do/ofertas.html" class="level-top">
+<span>Ofertas</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first">
+<a href="http://americana.com.do/ofertas/encartedelmes.html">
+<span>Encartes</span>
+</a>
+</li><li class="level1 nav-5-2 last">
+<a href="http://americana.com.do/ofertas/oferta-depto.html">
+<span>Ofertas por Departamentos</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-6 level-top">
+<a href="http://americana.com.do/plan-preferencia.html" class="level-top">
+<span>Plan Preferencia</span>
+</a>
+</li><li class="level0 nav-7 level-top parent">
+<a href="http://americana.com.do/preguntasfrecuentes.html" class="level-top">
+<span>Preguntas Frecuentes</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-7-1 first">
+<a href="http://americana.com.do/preguntasfrecuentes/usodepaginaonline.html">
+<span>Uso de P&aacute;gina Online</span>
+</a>
+</li><li class="level1 nav-7-2">
+<a href="http://americana.com.do/preguntasfrecuentes/precios.html">
+<span>Listado de Precios</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="http://americana.com.do/preguntasfrecuentes/itbis.html">
+<span>ITBIS en Articulos</span>
+</a>
+</li><li class="level1 nav-7-4">
+<a href="http://americana.com.do/preguntasfrecuentes/terminosycondiciones.html">
+<span>Términos y Condiciones</span>
+</a>
+</li><li class="level1 nav-7-5">
+<a href="http://americana.com.do/preguntasfrecuentes/devolucionesyreembolsos.html">
+<span>Devoluciones y Reembolsos</span>
+</a>
+</li><li class="level1 nav-7-6">
+<a href="http://americana.com.do/preguntasfrecuentes/politicasdegarantia.html">
+<span>Políticas de Garantia</span>
+</a>
+</li><li class="level1 nav-7-7">
+<a href="http://americana.com.do/preguntasfrecuentes/creditofiscal.html">
+<span>Solicitar Credito Fiscal</span>
+</a>
+</li><li class="level1 nav-7-8">
+<a href="http://americana.com.do/preguntasfrecuentes/solicitud-empleo.html">
+<span>Solicitud de Empleo</span>
+</a>
+</li><li class="level1 nav-7-9">
+<a href="http://americana.com.do/preguntasfrecuentes/tokenisacion.html">
+<span>Tokenisacion</span>
+</a>
+</li><li class="level1 nav-7-10 last">
+<a href="http://americana.com.do/preguntasfrecuentes/solicitud-credito.html">
+<span>Solicitud de Crédito</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-8 level-top last">
+<a href="http://americana.com.do/cobertura-de-envio.html" class="level-top">
+<span>Cobertura de Envio</span>
+</a>
+</li> </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-container col2-left-layout">
+<div class="container">
+<div class="contain-size">
+<div class="bradcrumbs-contain">
+<div class="breadcrumbs">
+<ul>
+<li class="home">
+<a href="http://americana.com.do/" title="Ir a Inicio">Inicio</a>
+<span></span>
+</li>
+<li class="search">
+<strong>Resultado de busqueda para: 'martillo'</strong>
+</li>
+</ul>
+</div>
+</div>
+<div class="main">
+<div class="main-inner">
+<div class="row-fluid show-grid">
+<div class="col-left sidebar span3"><div class="block block-list block-compare">
+<div class="block-title">
+<strong><span>Compare Art&iacute;culos </span></strong>
+</div>
+<div class="block-content">
+<p class="empty">Actualmente no existen art&iacute;culos para comparar.</p>
+</div>
+</div><script type="text/javascript">
+//<![CDATA[
+    function validatePollAnswerIsSelected()
+    {
+        var options = $$('input.poll_vote');
+        for( i in options ) {
+            if( options[i].checked == true ) {
+                return true;
+            }
+        }
+        return false;
+    }
+//]]>
+</script>
+<div class="block block-poll">
+<div class="block-title">
+<strong><span>Encuesta Com&uacute;n</span></strong>
+</div>
+<form id="pollForm" action="https://americana.com.do/poll/vote/add/poll_id/2/" method="post" onsubmit="return validatePollAnswerIsSelected();">
+<div class="block-content">
+<p class="block-subtitle">Cu&aacute;l es tu intención en esta p&aacute;gina?</p>
+<ul id="poll-answers">
+<li>
+<input type="radio" name="vote" class="radio poll_vote" id="vote_5" value="5" />
+<span class="label"><label for="vote_5">Consultar Artículos</label></span>
+</li>
+<li>
+<input type="radio" name="vote" class="radio poll_vote" id="vote_6" value="6" />
+<span class="label"><label for="vote_6">Conocer la Empresa</label></span>
+</li>
+<li>
+<input type="radio" name="vote" class="radio poll_vote" id="vote_7" value="7" />
+<span class="label"><label for="vote_7">Conocer las Ofertas</label></span>
+</li>
+<li>
+<input type="radio" name="vote" class="radio poll_vote" id="vote_8" value="8" />
+<span class="label"><label for="vote_8">Hacer Cotizaciones</label></span>
+</li>
+<li>
+<input type="radio" name="vote" class="radio poll_vote" id="vote_9" value="9" />
+<span class="label"><label for="vote_9">Comprar Online</label></span>
+</li>
+</ul>
+<script type="text/javascript">decorateList('poll-answers');</script>
+<div class="actions">
+<button type="submit" title="Vote" class="button"><span><span>Votar</span></span></button>
+</div>
+</div>
+</form>
+</div>
+<div class="block block-tags">
+<div class="block-title">
+<strong><span>Etiquetas populares <a href="http://americana.com.do/tag/list/">Ver Todas</a></span></strong>
+</div>
+<div class="block-content">
+<ul class="tags-list">
+<li><a href="http://americana.com.do/tag/product/list/tagId/24/" style="font-size:75%;">Ceramica</a></li>
+<li><a href="http://americana.com.do/tag/product/list/tagId/9/" style="font-size:75%;">Inodoro</a></li>
+</ul>
+</div>
+</div></div>
+<div class="col-main span9">
+<div class="block block-layered-nav">
+<div class="block-title">
+<strong><span>B&uacute;scar por</span></strong>
+</div>
+<div class="block-content">
+<p class="block-subtitle">Shopping Options</p>
+<dl id="narrow-by-list">
+<dt><a href="/">Categoria</a></dt> </dt>
+
+<dd>
+<ol>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?clase=63785&amp;q=martillo">DE GOLPE</a>
+<span class="item-count">[28]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?clase=63860&amp;q=martillo">HERRAMIENTAS ELECT</a>
+<span class="item-count">[6]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?clase=63845&amp;q=martillo">ORGANIZACION</a>
+<span class="item-count">[1]</span>
+</li>
+</ol>
+</dd>
+<dt><a href="/">Tipo</a></dt> </dt>
+
+<dd>
+<ol>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?q=martillo&amp;tipo=51713">ATORNILLADORES</a>
+<span class="item-count">[1]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?q=martillo&amp;tipo=52188">BULTOS</a>
+<span class="item-count">[1]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?q=martillo&amp;tipo=51576">MARTILLOS</a>
+<span class="item-count">[28]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?q=martillo&amp;tipo=51907">ROTOMARTILLOS</a>
+<span class="item-count">[4]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?q=martillo&amp;tipo=51464">TALADRO PERCUTOR</a>
+<span class="item-count">[1]</span>
+</li>
+</ol>
+</dd>
+<dt><a href="/">Marca</a></dt> </dt>
+
+<dd>
+<ol>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=69779&amp;q=martillo">BOSCH HERRAMIENTAS</a>
+<span class="item-count">[2]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=66560&amp;q=martillo">DEWALT HERRAMIENTAS</a>
+<span class="item-count">[4]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=66479&amp;q=martillo">STANLEY</a>
+<span class="item-count">[4]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=66535&amp;q=martillo">SURTEK</a>
+<span class="item-count">[1]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=66582&amp;q=martillo">TACTIX</a>
+<span class="item-count">[14]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=66494&amp;q=martillo">TAIWAN TORCHLIGHT ENTERPRISE C</a>
+<span class="item-count">[2]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=67094&amp;q=martillo">TRAMONTINA BELEN</a>
+<span class="item-count">[5]</span>
+</li>
+<li>
+<a href="http://americana.com.do/catalogsearch/result/index/?marca=66638&amp;q=martillo">TRAMONTINA GARIBALDI</a>
+<span class="item-count">[3]</span>
+</li>
+</ol>
+</dd>
+ </dl>
+<script type="text/javascript">decorateDataList('narrow-by-list')</script>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready(function(){
+jQuery("dl#narrow-by-list> dd:not(:first)").hide();
+jQuery("dl#narrow-by-list> dt a").click(function(){
+jQuery("dl#narrow-by-list> dd:visible").slideUp("fast");
+jQuery(this).parent().next().slideDown("fast");
+return false;
+});
+});
+/* ]]> */
+</script><div class="page-title">
+<h1>Resultado de b&uacute;squeda para 'martillo'</h1>
+</div>
+<div class="category-products">
+<div class="toolbar">
+<div class="pager">
+<p class="view-mode">
+</p>
+<div class="sort-by">
+<label>Sortear Como</label>
+<select onchange="setLocation(this.value)">
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=relevance&amp;q=martillo" selected="selected">
+Relacion </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=name&amp;q=martillo">
+Nombre </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=sku&amp;q=martillo">
+SKU </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=price&amp;q=martillo">
+Precio </option>
+</select>
+<a href="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=relevance&amp;q=martillo" title="Set Ascending Direction"><img src="http://americana.com.do/skin/frontend/magma/default/images/i_desc_arrow.gif" alt="Set Ascending Direction" class="v-middle" /></a>
+</div>
+<div class="pages">
+<strong>Page:</strong>
+<ol>
+<li class="current">1</li>
+<li><a href="http://americana.com.do/catalogsearch/result/index/?p=2&amp;q=martillo">2</a></li>
+<li><a href="http://americana.com.do/catalogsearch/result/index/?p=3&amp;q=martillo">3</a></li>
+<li>
+<a class="next i-next" href="http://americana.com.do/catalogsearch/result/index/?p=2&amp;q=martillo" title="Next">
+<img src="http://americana.com.do/skin/frontend/magma/default/images/pager_arrow_right.gif" alt="Next" class="v-middle" />
+</a>
+</li>
+</ol>
+</div>
+<div class="limiter visible-desktop">
+<label>Visualizar</label>
+<select onchange="setLocation(this.value)">
+<option value="http://americana.com.do/catalogsearch/result/index/?limit=9&amp;q=martillo">
+9 </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?limit=15&amp;q=martillo" selected="selected">
+15 </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?limit=30&amp;q=martillo">
+30 </option>
+</select> por pagina </div>
+</div>
+</div>
+<div class="products-grid row-fluid">
+<div class="span3 item first">
+<div class="item-inner">
+<a href="http://americana.com.do/000001000391.html" title="MARTILLO CARP. ST. 20 OZ. 51-082" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001000391.jpg" alt="MARTILLO CARP. ST. 20 OZ. 51-082" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001000391.html" title="MARTILLO CARP. ST. 20 OZ. 51-082">MARTILLO CARP. ST. 20 OZ. 51-082</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-77238">
+<span class="price">RD$ 661.04</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/77238/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/77238/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/77238/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001001907.html" title="PIQUETA P/SOLDADOR TW VERTICAL" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001001907.jpg" alt="PIQUETA P/SOLDADOR TW VERTICAL" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001001907.html" title="PIQUETA P/SOLDADOR TW VERTICAL">PIQUETA P/SOLDADOR TW VERTICAL</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-6576">
+<span class="price">RD$ 244.40</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/6576/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/6576/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/6576/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001001908.html" title="PIQUETA P/SOLDADOR TW HORIZONTAL" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001001908.jpg" alt="PIQUETA P/SOLDADOR TW HORIZONTAL" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001001908.html" title="PIQUETA P/SOLDADOR TW HORIZONTAL">PIQUETA P/SOLDADOR TW HORIZONTAL</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-6577">
+<span class="price">RD$ 244.40</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/6577/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/6577/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/6577/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item last">
+<div class="item-inner">
+<a href="http://americana.com.do/000001001910.html" title="MARTILLO CARP. ST. 16 0Z 51-081" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001001910.jpg" alt="MARTILLO CARP. ST. 16 0Z 51-081" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001001910.html" title="MARTILLO CARP. ST. 16 0Z 51-081">MARTILLO CARP. ST. 16 0Z 51-081</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-1388">
+<span class="price">RD$ 555.98</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/1388/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/1388/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/1388/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="products-grid row-fluid">
+<div class="span3 item first">
+<div class="item-inner">
+<a href="http://americana.com.do/000001001911.html" title="MARTILLO CARP. ST. 20 OZ. 51-274" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001001911.jpg" alt="MARTILLO CARP. ST. 20 OZ. 51-274" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001001911.html" title="MARTILLO CARP. ST. 20 OZ. 51-274">MARTILLO CARP. ST. 20 OZ. 51-274</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-30236">
+<span class="price">RD$ 343.16</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/30236/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/30236/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+ <li><a href="http://americana.com.do/catalog/product_compare/add/product/30236/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001001915.html" title="MARTILLO FIBER GLASS ST.20 OZ HT51392-40" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001001915.jpg" alt="MARTILLO FIBER GLASS ST.20 OZ HT51392-40" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001001915.html" title="MARTILLO FIBER GLASS ST.20 OZ HT51392-40">MARTILLO FIBER GLASS ST.20 OZ HT51392-40</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-30312">
+<span class="price">RD$ 661.04</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/30312/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/30312/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/30312/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001001919.html" title="MARTILLO CARP 27MM 40370/027 40200/027" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001001919.jpg" alt="MARTILLO CARP 27MM 40370/027 40200/027" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001001919.html" title="MARTILLO CARP 27MM 40370/027 40200/027">MARTILLO CARP 27MM 40370/027 40200/027</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-67580">
+<span class="price">RD$ 249.75</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/67580/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/67580/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/67580/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item last">
+<div class="item-inner">
+<a href="http://americana.com.do/000001008162.html" title="MARTILLO BOLA 400 G. 40400/016" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001008162.jpg" alt="MARTILLO BOLA 400 G. 40400/016" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001008162.html" title="MARTILLO BOLA 400 G. 40400/016">MARTILLO BOLA 400 G. 40400/016</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-73190">
+<span class="price">RD$ 315.00</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/73190/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/73190/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/73190/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="products-grid row-fluid">
+<div class="span3 item first">
+<div class="item-inner">
+<a href="http://americana.com.do/000001014973.html" title="PIQUETA P/ALBANIL 40455/000" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001014973.jpg" alt="PIQUETA P/ALBANIL 40455/000" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001014973.html" title="PIQUETA P/ALBANIL 40455/000">PIQUETA P/ALBANIL 40455/000</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-2433">
+<span class="price">RD$ 249.99</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/2433/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/2433/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/2433/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001022873.html" title="TALADRO DW PERCUT 1'' SDS VSR D25133K-B3" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001022873.jpg" alt="TALADRO DW PERCUT 1'' SDS VSR D25133K-B3" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001022873.html" title="TALADRO DW PERCUT 1'' SDS VSR D25133K-B3">TALADRO DW PERCUT 1'' SDS VSR D25133K-B3</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-27055">
+<span class="price">RD$ 12,820.00</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/27055/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/27055/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/27055/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001078457.html" title="TALADRO DW SDS MAX 1'' D25722K-B3" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001078457.jpg" alt="TALADRO DW SDS MAX 1'' D25722K-B3" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001078457.html" title="TALADRO DW SDS MAX 1'' D25722K-B3">TALADRO DW SDS MAX 1'' D25722K-B3</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-30781">
+<span class="price">RD$ 63,500.00</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/30781/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/30781/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/30781/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+ <div class="span3 item last">
+<div class="item-inner">
+<a href="http://americana.com.do/000001081748.html" title="MARTILLO P/TAPICERO SURTEK 852124" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001081748.jpg" alt="MARTILLO P/TAPICERO SURTEK 852124" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001081748.html" title="MARTILLO P/TAPICERO SURTEK 852124">MARTILLO P/TAPICERO SURTEK 852124</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-79388">
+<span class="price">RD$ 380.53</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/79388/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/79388/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/79388/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="products-grid row-fluid">
+<div class="span3 item first">
+<div class="item-inner">
+<a href="http://americana.com.do/000001082951.html" title="TALADRO DW SDS 1'' VSR D25414K" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001082951.jpg" alt="TALADRO DW SDS 1'' VSR D25414K" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001082951.html" title="TALADRO DW SDS 1'' VSR D25414K">TALADRO DW SDS 1'' VSR D25414K</a></h2>
+<div class="ratings">
+<div class="rating-box">
+<div class="rating" style="width:100%"></div>
+</div>
+<span class="amount">1 Opinion (es)</span>
+</div>
+<div class="price-box">
+<span class="regular-price" id="product-price-79830">
+<span class="price">RD$ 39,000.00</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/79830/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/79830/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/79830/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+<div class="item-inner">
+<a href="http://americana.com.do/000001085734.html" title="MARTILLO CARP. 16 OZ TACTIX 221051" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001085734.jpg" alt="MARTILLO CARP. 16 OZ TACTIX 221051" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001085734.html" title="MARTILLO CARP. 16 OZ TACTIX 221051">MARTILLO CARP. 16 OZ TACTIX 221051</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-82695">
+<span class="price">RD$ 949.71</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/82695/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/82695/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/82695/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span3 item">
+ <div class="item-inner">
+<a href="http://americana.com.do/000001085735.html" title="MARTILLO CARP. 20 OZ TACTIX 221053" class="product-image"><img src="http://americana.com.do/media/catalog/product/cache/1/small_image/250x250/9df78eab33525d08d6e5fb8d27136e95/0/0/000001085735.jpg" alt="MARTILLO CARP. 20 OZ TACTIX 221053" />
+</a>
+<div class="product-details">
+<h2 class="product-name"><a href="http://americana.com.do/000001085735.html" title="MARTILLO CARP. 20 OZ TACTIX 221053">MARTILLO CARP. 20 OZ TACTIX 221053</a></h2>
+<div class="price-box">
+<span class="regular-price" id="product-price-82696">
+<span class="price">RD$ 978.44</span> </span>
+</div>
+<div class="actions">
+<button type="button" title="Agregar" class="button btn-cart" onclick="setLocation('http://americana.com.do/checkout/cart/add/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/product/82696/form_key/6a5f9gcRpvdg5gfU/')"><span><span>Agregar</span></span></button>
+<ul class="add-to-links">
+<li><a href="https://americana.com.do/wishlist/index/add/product/82696/form_key/6a5f9gcRpvdg5gfU/" class="link-wishlist" title="Agregar a Wishlist" rel="tooltip">Agregar a Wishlist</a></li>
+<li><a href="http://americana.com.do/catalog/product_compare/add/product/82696/uenc/aHR0cDovL2FtZXJpY2FuYS5jb20uZG8vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvP3E9bWFydGlsbG8,/form_key/6a5f9gcRpvdg5gfU/" class="link-compare" title="Agregar para Comparar" rel="tooltip">Agregar para Comparar</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">decorateGeneric($$('ul.products-grid'), ['odd','even','first','last'])</script>
+<div class="toolbar-bottom">
+<div class="toolbar">
+<div class="pager">
+<p class="view-mode">
+</p>
+<div class="sort-by">
+<label>Sortear Como</label>
+<select onchange="setLocation(this.value)">
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=relevance&amp;q=martillo" selected="selected">
+Relacion </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=name&amp;q=martillo">
+Nombre </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=sku&amp;q=martillo">
+SKU </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=price&amp;q=martillo">
+Precio </option>
+</select>
+<a href="http://americana.com.do/catalogsearch/result/index/?dir=asc&amp;order=relevance&amp;q=martillo" title="Set Ascending Direction"><img src="http://americana.com.do/skin/frontend/magma/default/images/i_desc_arrow.gif" alt="Set Ascending Direction" class="v-middle" /></a>
+</div>
+<div class="pages">
+<strong>Page:</strong>
+<ol>
+<li class="current">1</li>
+<li><a href="http://americana.com.do/catalogsearch/result/index/?p=2&amp;q=martillo">2</a></li>
+<li><a href="http://americana.com.do/catalogsearch/result/index/?p=3&amp;q=martillo">3</a></li>
+<li>
+<a class="next i-next" href="http://americana.com.do/catalogsearch/result/index/?p=2&amp;q=martillo" title="Next">
+<img src="http://americana.com.do/skin/frontend/magma/default/images/pager_arrow_right.gif" alt="Next" class="v-middle" />
+</a>
+</li>
+</ol>
+</div>
+<div class="limiter visible-desktop">
+<label>Visualizar</label>
+<select onchange="setLocation(this.value)">
+<option value="http://americana.com.do/catalogsearch/result/index/?limit=9&amp;q=martillo">
+9 </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?limit=15&amp;q=martillo" selected="selected">
+15 </option>
+<option value="http://americana.com.do/catalogsearch/result/index/?limit=30&amp;q=martillo">
+30 </option>
+</select> por pagina </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-static-container">
+<div class="container">
+<div class="contain-size">
+<div class="footer-static">
+<div class="row-fluid show-grid">
+<div class="span3">
+<div class="footer-static-title">
+<h3>Mi Cuenta</h3>
+</div>
+<div class="footer-static-content">
+<ul class="last">
+<li><a href="http://americana.com.do/customer/account">Mi Cuenta</a></li>
+<li><a href="http://americana.com.do/contacts">Cont&aacute;ctenos</a></li>
+<li><a href="http://americana.com.do/servicios/?___store=en">Atencion al Cliente</a></li>
+<li><a href="http://americana.com.do/servicios/financiacion.html">Financiaci&oacute;n</a></li>
+<li><a href="http://americana.com.do/servicios/serviciosdisenoyterminaciones.html">Dise&ntilde;o y Terminaciones</a></li>
+<li><a href="http://americana.com.do/servicios/enviosygarantias.html">Env&iacute;os y Garant&iacute;as</a></li>
+<li><a href="http://americana.com.do/preguntasfrecuentes/devolucionesyreembolsos.html">Devoluciones</a></li>
+<li><a href="http://americana.com.do/sitemap">Mapa de Sitio</a></li>
+</ul>
+</div>
+</div>
+<div class="span3">
+<div class="footer-static-title">
+<h3>Nuestras Pol&iacute;ticas</h3>
+</div>
+<div class="footer-static-content">
+<ul class="last">
+<li><a href="http://americana.com.do/preguntasfrecuentes.html">Preguntas Frecuentes</a></li>
+<li><a href="http://americana.com.do/preguntasfrecuentes/usodepaginaonline.html">Uso de P&aacute;gina</a></li>
+<li><a href="http://americana.com.do/preguntasfrecuentes/precios.html">Listado de Precios</a></li>
+<li><a href="http://americana.com.do/preguntasfrecuentes/itbis.html">Itbis en Art&iacute;culos</a></li>
+<li><a href="http://americana.com.do/privacy-policy-cookie-restriction-mode/?___store=en">Pol&iacute;tica de Privacidad</a></li>
+<li><a href="http://americana.com.do/preguntasfrecuentes/terminosycondiciones.html">T&eacute;rminos y Condiciones</a></li>
+<li><a href="http://americana.com.do/cobertura-de-envio.html">Cobertura de Env&iacute;os</a></li>
+<li><a href="http://americana.com.do/enable-cookies/">Pol&iacute;ticas de Cookies</a></li>
+</ul>
+</div>
+</div>
+<div class="span3">
+<div class="footer-static-title">
+<h3>&Uacute;ltimos Tweets</h3>
+</div>
+<div class="footer-static-content"> <div id="twitter-feed"></div>
+<script type="text/javascript">
+	$jq(document).ready(function () {
+		var displaylimit = 2;
+		var twitterprofile = "Plazathemes";
+		var screenname = "Ultimos Tweets";
+		var showdirecttweets = false;
+		var showretweets = true;
+		var showtweetlinks = true;
+		var showprofilepic = true;
+		
+		var headerHTML = '';
+		var loadingHTML = '';
+		headerHTML += '';
+		loadingHTML += '<div id="loading-container" style="text-align:center;margin-top:30px;"><img src="http://americana.com.do/skin/frontend/magma/default/w3themes/images/ajax-loader.gif" alt="tweet loader" /></div>';
+		
+		$jq('#twitter-feed').html(headerHTML + loadingHTML);
+		 
+		$jq.getJSON('http://americana.com.do/twitter/get-tweets.php', 
+			function(feeds) {   
+			   //alert(feeds);
+				var feedHTML = '<div class="tweet-content">';
+				var displayCounter = 1;         
+				for (var i=0; i<feeds.length; i++) {
+					var tweetscreenname = feeds[i].user.name;
+					var tweetusername = feeds[i].user.screen_name;
+					var profileimage = feeds[i].user.profile_image_url_https;
+					var status = feeds[i].text; 
+					var isaretweet = false;
+					var isdirect = false;
+					var tweetid = feeds[i].id_str;
+					
+					//If the tweet has been retweeted, get the profile pic of the tweeter
+					if(typeof feeds[i].retweeted_status != 'undefined'){
+					   profileimage = feeds[i].retweeted_status.user.profile_image_url_https;
+					   tweetscreenname = feeds[i].retweeted_status.user.name;
+					   tweetusername = feeds[i].retweeted_status.user.screen_name;
+					   tweetid = feeds[i].retweeted_status.id_str
+					   isaretweet = true;
+					 };
+					 
+					 
+					 //Check to see if the tweet is a direct message
+					 if (feeds[i].text.substr(0,1) == "@") {
+						 isdirect = true;
+					 }
+					 
+					//console.log(feeds[i]);
+					 
+					 if (((showretweets == true) || ((isaretweet == false) && (showretweets == false))) && ((showdirecttweets == true) || ((showdirecttweets == false) && (isdirect == false)))) { 
+						if ((feeds[i].text.length > 1) && (displayCounter <= displaylimit)) {             
+							if (showtweetlinks == true) {
+								status = addlinks(status);
+							}
+							 
+							if (displayCounter == 1) {
+								feedHTML += headerHTML;
+							}
+										 
+							feedHTML += '<div class="twitter-article">';                  
+							feedHTML += '<div class="twitter-pic"><a href="https://twitter.com/'+tweetusername+'" ><img src="http://americana.com.do/skin/frontend/magma/default/w3themes/images/tweet-icon.png" width="11" height="11" alt="twitter icon" /></a></div>';
+							feedHTML += '<div class="twitter-text"><span class="tweetprofilelink"> <a href="https://twitter.com/'+tweetusername+'" >@'+tweetusername+'</a></span><br/>'+status+'<br/>';
+                            							feedHTML += '</div></div>';
+							displayCounter++;
+						}   
+					 }
+				}
+				feedHTML += '</div>';
+				$jq('#twitter-feed').html(feedHTML);
+		});
+			 
+		//Function modified from Stack Overflow
+		function addlinks(data) {
+			//Add link to all http:// links within tweets
+			data = data.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+				return '<a href="'+url+'" >'+url+'</a>';
+			});
+				 
+			//Add link to @usernames used within tweets
+			data = data.replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+				return '<a href="http://twitter.com/'+reply.substring(1)+'" style="font-weight:lighter;" >'+reply.charAt(0)+reply.substring(1)+'</a>';
+			});
+			return data;
+		}
+		 
+		 
+		function relative_time(time_value) {
+		  var values = time_value.split(" ");
+		  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+		  var parsed_date = Date.parse(time_value);
+		  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+		  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+		  var shortdate = time_value.substr(4,2) + " " + time_value.substr(0,3);
+		  delta = delta + (relative_to.getTimezoneOffset() * 60);
+		 
+		  if (delta < 60) {
+			return '1m';
+		  } else if(delta < 120) {
+			return '1m';
+		  } else if(delta < (60*60)) {
+			return (parseInt(delta / 60)).toString() + 'm';
+		  } else if(delta < (120*60)) {
+			return '1h';
+		  } else if(delta < (24*60*60)) {
+			return (parseInt(delta / 3600)).toString() + 'h';
+		  } else if(delta < (48*60*60)) {
+			//return '1 day';
+			return shortdate;
+		  } else {
+			return shortdate;
+		  }
+		}
+		 
+	});
+	
+</script>
+</div>
+</div>
+<div class="span3">
+<div class="footer-static-title">
+<h3>Ubicaci&oacute;n</h3>
+</div>
+<div class="footer-static-content">
+<div class="f-address">
+<ul>
+<li>FERRETER&Iacute;A AMERICANA,</li>
+<li><a href="https://www.bing.com/maps/default.aspx?v=2&amp;pc=FACEBK&amp;mid=8100&amp;where1=John+F.+Kennedy+KM+5+1%2F2%2C+Santo+Domingo%2C+Dominican+Republic&amp;FORM=FBKPL0&amp;name=Ferreter%C3%ADa+Americana&amp;mkt=en-US" rel="nofollow" target="_blank">John F. Kennedy KM 5 1/2, Santo Domingo, Dominican Republic</a></li>
+</ul>
+</div>
+</div>
+<div class="span3">
+<div class="footer-static-title">
+<h3>Suscr&iacute;base</h3>
+</div>
+<div class="footer-static-content">
+<p><div align="left">
+<form action="https://americana.com.do/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+<div class="block-content">
+<div class="input-box">
+<input type="text" name="email" id="newsletter" title="Sign up for our newsletter" onfocus="if(this.value == 'sunombre@ejemplo.com') { this.value = ''; }" onblur="this.value=!this.value?'sunombre@ejemplo.com':this.value;" value="sunombre@ejemplo.com" />
+</div>
+<div class="actions">
+<button type="submit" title="Enviar" class="button"><span><span>Enviar</span></span></button>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="contain-size">
+</div>
+</div>
+<div class="footer-container">
+<div class="container">
+<div class="contain-size">
+<div class="footer">
+<div class="row-fluid">
+<div class="span4">
+<div class="footer-payment"><a href="https://www.nrf.com/" target="_blank"><img src="http://americana.com.do/media/wysiwyg/NRF_Member-web.gif" alt="NRF Member" width="100" /></a><script type="text/javascript">
+jQuery.noConflict();
+//<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "https://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+<script language="JavaScript" type="text/javascript">
+TrustLogo("https://americana.com.do/media/wysiwyg/comodo_secure_76x26_white.png", "CL1", "none");
+</script><a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=americana.com.do','SiteLock','width=600,height=600,left=160,top=170');"><img alt="SiteLock" title="SiteLock" src="//shield.sitelock.com/shield/americana.com.do" /></a><script type='text/javascript' data-cfasync='false'>
+jQuery.noConflict();
+window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '9223aa38-68f9-4614-a378-f7d4a5c54058', f: true }); done = true; } }; })();</script></div> </div>
+<div class="span4">
+<address>&copy; 2014 Ferreteria Americana. © Todos los derechos reservados.</address>
+</div>
+<div class="span4">
+<div class="footer-social">
+<ul>
+<li class="facebook"><a title="Facebook" href="https://www.facebook.com/FerreAmericana" rel="tooltip">facebook</a></li>
+<li class="twitter"><a title="Twitter" href="https://twitter.com/FerreAmericana" rel="tooltip">twitter</a></li>
+<li class="pinterest last"><a title="Pinit" href="https://www.pinterest.com/ferreamericana/" rel="tooltip">pinterest</a></li>
+</ul>
+</div> </div>
+</div>
+<div id="back-top" class="hidden-phone"><a href="#" rel="tooltip" title="Top"></a> </div>
+</div>
+</div>
+</div>
+</div> <script type="text/javascript">
+        var formsToProtectOnPage = [];
+        var currentForm;
+        var currentValidationForm;
+        var checkedForms = [];
+        var hasFormsChanged = false;
+
+        var onSubmit = function (token) {
+            if (currentValidationForm && currentValidationForm.validator
+                && currentValidationForm.validator.validate()
+            ) {
+                currentForm.querySelector('[name="amasty_invisible_token"]').setAttribute('value', token);
+                if (typeof(recaptchaObject) !== 'undefined') {
+                    recaptchaObject.submit();
+                } else {
+                    currentForm.submit();
+                }
+            } else {
+                grecaptcha.reset();
+            }
+        };
+
+        function checkForms() {
+            formsToProtect = ["form[action*=\"newsletter\/subscriber\/new\"]"];
+            formsToProtect.forEach(function (item) {
+                var continueWorking = true;
+                formsSearchedBySelector = $$(item);
+                checkedForms.forEach(function(element) {
+                    if (element[0] == formsSearchedBySelector[0]) {
+                        continueWorking = false;
+                        return;
+                    }
+                })
+                if (formsSearchedBySelector.length != 0 && continueWorking) {
+                    checkedForms.push(formsSearchedBySelector);
+                    formsSearchedBySelector.forEach(function (formToProtect) {
+                        formsToProtectOnPage.push(formToProtect);
+                        hasFormsChanged = true;
+                    });
+                }
+            });
+            if (hasFormsChanged) {
+                for (var index in formsToProtectOnPage) {
+                    if (formsToProtectOnPage.hasOwnProperty(index)) {
+                        var formToProtectOnPage = formsToProtectOnPage[index];
+                        if ('form' !== formToProtectOnPage.tagName.toLowerCase()) {
+                            formToProtectOnPage = formToProtectOnPage.getElementsByTagName('form');
+                            if (0 < formToProtectOnPage.length) {
+                                formToProtectOnPage = formToProtectOnPage[0];
+                            } else {
+                                continue;
+                            }
+                        }
+
+                        var recaptchaBlock = document.createElement('div');
+                        recaptchaBlock.className = 'amasty_recaptcha';
+                        formToProtectOnPage.appendChild(recaptchaBlock);
+
+                        var tokenInput = document.createElement('input');
+                        tokenInput.type = 'hidden';
+                        tokenInput.name = 'amasty_invisible_token';
+                        tokenInput.value = '';
+                        formToProtectOnPage.appendChild(tokenInput);
+
+                        formToProtectOnPage.onsubmit = function submitProtectedForm(event) {
+                            currentForm = event.target;
+                            currentValidationForm = new VarienForm(currentForm.id, false);
+                            recaptchaBlock = currentForm.querySelector(".amasty_recaptcha");
+                            if ('' == recaptchaBlock.innerHTML) {
+                                recaptcha = grecaptcha.render(recaptchaBlock, {
+                                    'sitekey': '6LfNyUcUAAAAAJMXhHCpjCfDL8-FDJcCYVQHb7Lq',
+                                    'callback': onSubmit,
+                                    'size': 'invisible',
+                                    'theme': 'light',
+                                    'badge': 'bottomleft'
+                                });
+                            }
+                            grecaptcha.reset(recaptcha);
+                            grecaptcha.execute(recaptcha);
+                            return false;
+                        }
+                    }
+                }
+            }
+        }
+
+        jQuery(document).ready(function() {
+            var formsCount = 0;
+            setInterval(function () {
+                var formLength = $$('form').length;
+                if (formsCount != formLength) {
+                    formsCount = formLength;
+                    checkForms();
+                }
+            }, 1000);
+        });
+    </script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</div>
+</div>
+</body>
+</html>
