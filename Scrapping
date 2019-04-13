@@ -5,21 +5,34 @@
 #include <stdlib.h>
 #include <string.h>
 
-void Scrape(char contenido[]);
+char * Scrape(char contenido[], char producto[]);
 int EncontrarTag(char contenido[], char tag[], int pos);
 int EncontrarProducto(char contenido[], char producto[], int pos);
 int SubStr(char contenido[], char strSubString[], int pos);
-int ExtraerInfo(char contenido[], int pos);
+char * ExtraerInfo(char contenido[], int pos);
 char * LeerDatos(char nombreArchivo[]);
+void ImprimirDatosEnPantalla(char contenido[]);
+void EscribirDatosEnArchivo(char contenido[], char nombreArchivo[]);
 
 int main()
 {
 	char * contenido = LeerDatos("contenido.txt");
+	char * informacionExtraida;
 
-	Scrape(contenido);
+	if (contenido == NULL)
+		return 0;
+
+	informacionExtraida = Scrape(contenido, "MARTILLO");
+	ImprimirDatosEnPantalla(informacionExtraida);
+	EscribirDatosEnArchivo(informacionExtraida, "informacionExtraida.txt");
+
+	if (informacionExtraida != NULL)
+		free(informacionExtraida);
+
 	free(contenido);
 	return 0;
 }
+
 
 char * LeerDatos(char nombreArchivo[])
 {
@@ -30,38 +43,81 @@ char * LeerDatos(char nombreArchivo[])
 	archivo = fopen(nombreArchivo, "rt");
 
 	if (archivo == NULL)
+	{
+		printf("\nError leyendo el archivo %s", nombreArchivo);
 		return NULL;
-	
+	}
 	fseek(archivo, 0, SEEK_END);
 	tamanoArchivo = ftell(archivo);
 	fseek(archivo, 0, SEEK_SET);
-	
-	contenido = malloc((tamanoArchivo + 1) * sizeof(char));
-	
+
+	contenido = (char *) malloc((tamanoArchivo + 1) * sizeof(char));
+
 	fread(contenido, sizeof(char), tamanoArchivo, archivo);
 	fclose(archivo);
 	contenido[tamanoArchivo] = '\0';
-	
+
 	return contenido;
 }
 
-void Scrape(char contenido[])
+void EscribirDatosEnArchivo(char contenido[], char nombreArchivo[])
 {
-	int i = 0, count = 0;
+	FILE *archivo;
+	int i = 0;
+
+	archivo = fopen(nombreArchivo, "wt");
+	if (archivo == NULL)
+	{
+		printf("\nError creando el archivo %s\n", nombreArchivo);
+		return;
+	}
+
+	while (contenido[i] != '\0')
+		fputc(contenido[i++], archivo);
+
+	fclose(archivo);
+	printf("\nArchivo %s fue creado", nombreArchivo);
+}
+
+void ImprimirDatosEnPantalla(char contenido[])
+{
+	int i = 0;
+
+	while (contenido[i] != '\0')
+		printf("%c", contenido[i++]);
+}
+char * Scrape(char contenido[], char producto[])
+{
+	int i = 0, resultadoPos = 0;
 	char tagProducto[] = "class=\"product-name\">";
 	char tagPrecio[] = "class=\"price\"";
-	char producto[] = "MARTILLO";
+	char * informacionExtraida;
+	char * resultado;
 
+	resultado = (char *)malloc(strlen(contenido) * sizeof(char));
+	*resultado = '\0';
 	while ((i = EncontrarTag(contenido, tagProducto, i)))
 	{
 		if (EncontrarProducto(contenido, producto, i))
 		{
-			printf("\n%d) ", ++count);
-			ExtraerInfo(contenido, i);
+			informacionExtraida = ExtraerInfo(contenido, i);
+			if (informacionExtraida != NULL)
+			{
+				//printf("%s", informacionExtraida);
+				resultado = strcat(resultado, informacionExtraida);
+				free(informacionExtraida);
+			}
 			i = EncontrarTag(contenido, tagPrecio, i);
-			ExtraerInfo(contenido, i);
+			informacionExtraida = ExtraerInfo(contenido, i);
+			if (informacionExtraida != NULL)
+			{
+				//printf("%s", informacionExtraida);
+				resultado = strcat(resultado, informacionExtraida);
+				free(informacionExtraida);
+			}
 		}
 	}
+	return resultado;
 }
 
 int EncontrarTag(char contenido[], char tag[], int pos)
@@ -88,13 +144,20 @@ int EncontrarProducto(char contenido[], char producto[], int pos) {
 	return 0;
 }
 
-int ExtraerInfo(char contenido[], int pos)
+char * ExtraerInfo(char contenido[], int pos)
 {
-	while (contenido[pos] != '\0' && contenido[pos] != '<')
-		printf("%c", contenido[pos++]);
+	int i = 0;
+	char * informacionExtraida;
 
-	printf("\n");
-	return pos;
+	informacionExtraida = (char *) malloc(strlen(contenido) * sizeof(char));
+
+	while (contenido[pos] != '\0' && contenido[pos] != '<')
+		informacionExtraida [i++] = contenido[pos++];
+
+	informacionExtraida[i++] = '\n';
+	informacionExtraida[i] = '\0';
+
+	return informacionExtraida;
 }
 
 int SubStr(char contenido[], char strSubString[], int pos)
