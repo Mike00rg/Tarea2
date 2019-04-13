@@ -13,7 +13,7 @@ struct MATERIA
     int calif;
     int puntos;
 
-} materias[100];
+} typedef struct materias[100];
 
 void Inscibir();
 void Calcular_acumulado();
@@ -132,7 +132,7 @@ void Eliminar_materia()
         {
             printf("%d.%s\n",i,materias[i].nombre);
         }
-        scanf("%i",&i);
+        scanf("%d",&i);
 
         strcpy(materias[i].nombre," ");
         materias[i].calif = 0;
@@ -155,12 +155,12 @@ void Editar_cali()
 
         for(i=0; i<j; i++)
         {
-            printf("%i.%s\n",i,materias[i].nombre);
+            printf("%d.%s\n",i,materias[i].nombre);
         }
-        scanf("%i",&i);
+        scanf("%d",&i);
 
         printf("\nDigite la nueva calificacion: \n");
-        scanf("%i",&materias[i].calif);
+        scanf("%d",&materias[i].calif);
 
         if(materias[i].calif>=90)
         {
