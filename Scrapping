@@ -1,6 +1,6 @@
 /*copiar el codigo de la pagina en un archivo de texto en la misma ubicacion en la que se encuentra el proyecto*/
 
-
+// 100/100
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
