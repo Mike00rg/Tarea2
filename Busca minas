@@ -4,6 +4,8 @@
 #include <time.h>
 #include <windows.h>
 
+// 90/100
+// El tamaño del tablero tenía que ser variable -10
 
 #define TRUE 0
 #define FALSE 1
